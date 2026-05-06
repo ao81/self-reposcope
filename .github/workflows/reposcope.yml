@@ -18,7 +18,7 @@ jobs:
             - name: Download self-reposcope binary from GitHub Release
               shell: bash
               run: |
-                  curl -L https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
+                  curl -L https://github.com/ao81/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
                   chmod +x ./self-reposcope
 
             - name: Run self-reposcope CLI
