@@ -1,11 +1,11 @@
 # Self-Reposcope 🔍
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F4okimi7uki%2Fself-reposcope&label=Visitors&icon=suit-heart-fill&color=%23d63384)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fao81%2Fself-reposcope&label=Visitors&icon=suit-heart-fill&color=%23d63384)
 ![Rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust)
-[![License](https://img.shields.io/github/license/4okimi7uki/self-reposcope)](https://github.com/4okimi7uki/self-reposcope/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ao81/self-reposcope)](https://github.com/ao81/self-reposcope/blob/main/LICENSE)
 
 <p align="center">
-<img src="https://github.com/4okimi7uki/self-reposcope/blob/main/output/full_languages.svg" alt="stats"/>
+<img src="https://github.com/ao81/self-reposcope/blob/main/output/full_languages.svg" alt="stats"/>
 </p>
 
 -   GitHub の **言語使用量を SVG で可視化**する CLI ツール（Rust 製）  
@@ -72,7 +72,7 @@ _By setting up the following workflow in your GitHub repository, self-reposcope 
     - _**Name**: `REPOSCOPE_TOKEN`_
     - _**Value**: your personal access token (with `repo` scope)_
 
-2. [`.github/workflows/reposcope.yml`](https://github.com/4okimi7uki/self-reposcope/blob/main/.github/workflows/reposcope.yml) を作成し、以下のように記述：  
+2. [`.github/workflows/reposcope.yml`](https://github.com/ao81/self-reposcope/blob/main/.github/workflows/reposcope.yml) を作成し、以下のように記述：  
    _Create a workflow file at `.github/workflows/reposcope.yml` with the following content:_
 
 ```bash
@@ -96,7 +96,7 @@ jobs:
             - name: Download self-reposcope binary from GitHub Release
               shell: bash
               run: |
-                  curl -L https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
+                  curl -L https://github.com/ao81/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
                   chmod +x ./self-reposcope
 
             - name: Run self-reposcope CLI
@@ -184,8 +184,8 @@ EXCLUDED_LANGUAGES="Jupyter Notebook, HTML, CSS"
 
 ## 🤝 Contributors
 
-<a href="https://github.com/4okimi7uki/self-reposcope/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=4okimi7uki/self-reposcope" alt="contributors">
+<a href="https://github.com/ao81/self-reposcope/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ao81/self-reposcope" alt="contributors">
 </a>
 
 ---
