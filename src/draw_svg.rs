@@ -40,8 +40,10 @@ pub fn generate_compact_svg(
         file,
         r#"<style>
   text {{ fill: #24292f; }}
+  #bar_bg {{ fill: #e1e4e8; }}
   @media (prefers-color-scheme: dark) {{
     text {{ fill: #e6edf3; }}
+    #bar_bg {{ fill: #30363d; }}
   }}
 </style>"#
     )?;
@@ -61,12 +63,10 @@ pub fn generate_compact_svg(
 </defs>"#
     )?;
 
-    // バーの背景（ダーク/ライト両対応）
+    // バーの背景（id指定でCSSが当たる）
     writeln!(
         file,
-        r#"<rect width="{bar_total_width}" height="10" x="{current_x_start}" y="{bar_y_center}" rx="5" ry="5">
-  <style>rect {{ fill: #e1e4e8; }} @media (prefers-color-scheme: dark) {{ rect {{ fill: #30363d; }} }}</style>
-</rect>"#
+        r#"<rect id="bar_bg" width="{bar_total_width}" height="10" x="{current_x_start}" y="{bar_y_center}" rx="5" ry="5" />"#
     )?;
 
     writeln!(file, r#"<g clip-path="url(#roundedClip)">"#)?;
