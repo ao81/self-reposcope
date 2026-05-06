@@ -45,8 +45,10 @@ tspan {
 </style>
 <style>
   text { fill: #24292f; }
+  #bar_bg { fill: #e1e4e8; }
   @media (prefers-color-scheme: dark) {
     text { fill: #e6edf3; }
+    #bar_bg { fill: #30363d; }
   }
 </style>
 
@@ -55,9 +57,7 @@ tspan {
         <rect x="20" y="29" width="840" height="10" rx="5" ry="5" />
     </clipPath>
 </defs>
-<rect width="840" height="10" x="20" y="29" rx="5" ry="5">
-  <style>rect { fill: #e1e4e8; } @media (prefers-color-scheme: dark) { rect { fill: #30363d; } }</style>
-</rect>
+<rect id="bar_bg" width="840" height="10" x="20" y="29" rx="5" ry="5" />
 <g clip-path="url(#roundedClip)">
     <rect x="20" y="29" width="523" height="10" fill="#f34b7d"><title>C++ 62.26%</title></rect>
     <rect x="543" y="29" width="113" height="10" fill="#555555"><title>C 13.39%</title></rect>
