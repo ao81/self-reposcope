@@ -59,52 +59,55 @@ tspan {
 </defs>
 <rect id="bar_bg" width="840" height="10" x="20" y="29" rx="5" ry="5" />
 <g clip-path="url(#roundedClip)">
-    <rect x="20" y="29" width="611" height="10" fill="#f34b7d"><title>C++ 72.76%</title></rect>
-    <rect x="631" y="29" width="89" height="10" fill="#555555"><title>C 10.61%</title></rect>
-    <rect x="720" y="29" width="37" height="10" fill="#e34c26"><title>HTML 4.43%</title></rect>
-    <rect x="757" y="29" width="31" height="10" fill="#4F5D95"><title>PHP 3.64%</title></rect>
-    <rect x="788" y="29" width="30" height="10" fill="#00ADD8"><title>Go 3.62%</title></rect>
-    <rect x="818" y="29" width="17" height="10" fill="#663399"><title>CSS 2.03%</title></rect>
-    <rect x="835" y="29" width="5" height="10" fill="#dd1100"><title>Mathematica 0.63%</title></rect>
-    <rect x="840" y="29" width="4" height="10" fill="#012456"><title>PowerShell 0.45%</title></rect>
-    <rect x="844" y="29" width="3" height="10" fill="#178600"><title>C# 0.37%</title></rect>
-    <rect x="847" y="29" width="3" height="10" fill="#3572A5"><title>Python 0.34%</title></rect>
-    <rect x="850" y="29" width="3" height="10" fill="#f1e05a"><title>JavaScript 0.33%</title></rect>
-    <rect x="853" y="29" width="3" height="10" fill="#dea584"><title>Rust 0.32%</title></rect>
-    <rect x="856" y="29" width="2" height="10" fill="#b07219"><title>Java 0.29%</title></rect>
-    <rect x="858" y="29" width="1" height="10" fill="#89e051"><title>Shell 0.14%</title></rect>
-    <rect x="859" y="29" width="0" height="10" fill="#878787"><title>Hack 0.05%</title></rect>
+    <rect x="20" y="29" width="630" height="10" fill="#f34b7d"><title>C++ 74.96%</title></rect>
+    <rect x="650" y="29" width="82" height="10" fill="#555555"><title>C 9.76%</title></rect>
+    <rect x="732" y="29" width="34" height="10" fill="#e34c26"><title>HTML 4.06%</title></rect>
+    <rect x="766" y="29" width="28" height="10" fill="#4F5D95"><title>PHP 3.33%</title></rect>
+    <rect x="794" y="29" width="28" height="10" fill="#00ADD8"><title>Go 3.32%</title></rect>
+    <rect x="822" y="29" width="16" height="10" fill="#663399"><title>CSS 1.86%</title></rect>
+    <rect x="838" y="29" width="5" height="10" fill="#dd1100"><title>Mathematica 0.57%</title></rect>
+    <rect x="843" y="29" width="3" height="10" fill="#012456"><title>PowerShell 0.41%</title></rect>
+    <rect x="846" y="29" width="3" height="10" fill="#178600"><title>C# 0.34%</title></rect>
+    <rect x="849" y="29" width="3" height="10" fill="#3572A5"><title>Python 0.31%</title></rect>
+    <rect x="852" y="29" width="3" height="10" fill="#f1e05a"><title>JavaScript 0.31%</title></rect>
+    <rect x="855" y="29" width="2" height="10" fill="#dea584"><title>Rust 0.29%</title></rect>
+    <rect x="857" y="29" width="2" height="10" fill="#b07219"><title>Java 0.27%</title></rect>
+    <rect x="859" y="29" width="1" height="10" fill="#89e051"><title>Shell 0.13%</title></rect>
+    <rect x="860" y="29" width="0" height="10" fill="#878787"><title>Hack 0.04%</title></rect>
+    <rect x="860" y="29" width="0" height="10" fill="#6E4C13"><title>Assembly 0.03%</title></rect>
 </g>
 <g id="lang_legend">
 <circle cx="26" cy="65" r="6" fill="#f34b7d" />
-<text x="40" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C++</tspan>  72.76%</text>
+<text x="40" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C++</tspan>  74.96%</text>
 <circle cx="236" cy="65" r="6" fill="#555555" />
-<text x="250" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C</tspan>  10.61%</text>
+<text x="250" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C</tspan>  9.76%</text>
 <circle cx="446" cy="65" r="6" fill="#e34c26" />
-<text x="460" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">HTML</tspan>  4.43%</text>
+<text x="460" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">HTML</tspan>  4.06%</text>
 <circle cx="656" cy="65" r="6" fill="#4F5D95" />
-<text x="670" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PHP</tspan>  3.64%</text>
+<text x="670" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PHP</tspan>  3.33%</text>
 <circle cx="26" cy="93" r="6" fill="#00ADD8" />
-<text x="40" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Go</tspan>  3.62%</text>
+<text x="40" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Go</tspan>  3.32%</text>
 <circle cx="236" cy="93" r="6" fill="#663399" />
-<text x="250" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">CSS</tspan>  2.03%</text>
+<text x="250" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">CSS</tspan>  1.86%</text>
 <circle cx="446" cy="93" r="6" fill="#dd1100" />
-<text x="460" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Mathematica</tspan>  0.63%</text>
+<text x="460" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Mathematica</tspan>  0.57%</text>
 <circle cx="656" cy="93" r="6" fill="#012456" />
-<text x="670" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PowerShell</tspan>  0.45%</text>
+<text x="670" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PowerShell</tspan>  0.41%</text>
 <circle cx="26" cy="121" r="6" fill="#178600" />
-<text x="40" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C#</tspan>  0.37%</text>
+<text x="40" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C#</tspan>  0.34%</text>
 <circle cx="236" cy="121" r="6" fill="#3572A5" />
-<text x="250" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Python</tspan>  0.34%</text>
+<text x="250" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Python</tspan>  0.31%</text>
 <circle cx="446" cy="121" r="6" fill="#f1e05a" />
-<text x="460" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">JavaScript</tspan>  0.33%</text>
+<text x="460" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">JavaScript</tspan>  0.31%</text>
 <circle cx="656" cy="121" r="6" fill="#dea584" />
-<text x="670" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Rust</tspan>  0.32%</text>
+<text x="670" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Rust</tspan>  0.29%</text>
 <circle cx="26" cy="149" r="6" fill="#b07219" />
-<text x="40" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Java</tspan>  0.29%</text>
+<text x="40" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Java</tspan>  0.27%</text>
 <circle cx="236" cy="149" r="6" fill="#89e051" />
-<text x="250" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Shell</tspan>  0.14%</text>
+<text x="250" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Shell</tspan>  0.13%</text>
 <circle cx="446" cy="149" r="6" fill="#878787" />
-<text x="460" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Hack</tspan>  0.05%</text>
+<text x="460" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Hack</tspan>  0.04%</text>
+<circle cx="656" cy="149" r="6" fill="#6E4C13" />
+<text x="670" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Assembly</tspan>  0.03%</text>
 </g>
 </svg>
