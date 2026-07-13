@@ -59,52 +59,52 @@ tspan {
 </defs>
 <rect id="bar_bg" width="840" height="10" x="20" y="29" rx="5" ry="5" />
 <g clip-path="url(#roundedClip)">
-    <rect x="20" y="29" width="688" height="10" fill="#f34b7d"><title>C++ 81.96%</title></rect>
-    <rect x="708" y="29" width="61" height="10" fill="#555555"><title>C 7.23%</title></rect>
-    <rect x="769" y="29" width="26" height="10" fill="#e34c26"><title>HTML 3.07%</title></rect>
-    <rect x="795" y="29" width="19" height="10" fill="#4F5D95"><title>PHP 2.30%</title></rect>
-    <rect x="814" y="29" width="19" height="10" fill="#00ADD8"><title>Go 2.29%</title></rect>
-    <rect x="833" y="29" width="11" height="10" fill="#663399"><title>CSS 1.29%</title></rect>
-    <rect x="844" y="29" width="3" height="10" fill="#dd1100"><title>Mathematica 0.40%</title></rect>
-    <rect x="847" y="29" width="2" height="10" fill="#012456"><title>PowerShell 0.28%</title></rect>
-    <rect x="849" y="29" width="2" height="10" fill="#178600"><title>C# 0.24%</title></rect>
-    <rect x="851" y="29" width="2" height="10" fill="#3572A5"><title>Python 0.21%</title></rect>
-    <rect x="853" y="29" width="2" height="10" fill="#f1e05a"><title>JavaScript 0.21%</title></rect>
-    <rect x="855" y="29" width="2" height="10" fill="#dea584"><title>Rust 0.20%</title></rect>
-    <rect x="857" y="29" width="2" height="10" fill="#b07219"><title>Java 0.18%</title></rect>
-    <rect x="859" y="29" width="1" height="10" fill="#89e051"><title>Shell 0.09%</title></rect>
+    <rect x="20" y="29" width="704" height="10" fill="#f34b7d"><title>C++ 83.75%</title></rect>
+    <rect x="724" y="29" width="53" height="10" fill="#555555"><title>C 6.32%</title></rect>
+    <rect x="777" y="29" width="22" height="10" fill="#e34c26"><title>HTML 2.65%</title></rect>
+    <rect x="799" y="29" width="17" height="10" fill="#4F5D95"><title>PHP 1.99%</title></rect>
+    <rect x="816" y="29" width="17" height="10" fill="#00ADD8"><title>Go 1.98%</title></rect>
+    <rect x="833" y="29" width="9" height="10" fill="#663399"><title>CSS 1.11%</title></rect>
+    <rect x="842" y="29" width="6" height="10" fill="#3572A5"><title>Python 0.74%</title></rect>
+    <rect x="848" y="29" width="3" height="10" fill="#dd1100"><title>Mathematica 0.34%</title></rect>
+    <rect x="851" y="29" width="2" height="10" fill="#012456"><title>PowerShell 0.24%</title></rect>
+    <rect x="853" y="29" width="2" height="10" fill="#178600"><title>C# 0.20%</title></rect>
+    <rect x="855" y="29" width="2" height="10" fill="#f1e05a"><title>JavaScript 0.18%</title></rect>
+    <rect x="857" y="29" width="1" height="10" fill="#dea584"><title>Rust 0.17%</title></rect>
+    <rect x="858" y="29" width="1" height="10" fill="#b07219"><title>Java 0.16%</title></rect>
+    <rect x="859" y="29" width="1" height="10" fill="#89e051"><title>Shell 0.11%</title></rect>
     <rect x="860" y="29" width="0" height="10" fill="#878787"><title>Hack 0.03%</title></rect>
     <rect x="860" y="29" width="0" height="10" fill="#6E4C13"><title>Assembly 0.02%</title></rect>
 </g>
 <g id="lang_legend">
 <circle cx="26" cy="65" r="6" fill="#f34b7d" />
-<text x="40" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C++</tspan>  81.96%</text>
+<text x="40" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C++</tspan>  83.75%</text>
 <circle cx="236" cy="65" r="6" fill="#555555" />
-<text x="250" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C</tspan>  7.23%</text>
+<text x="250" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C</tspan>  6.32%</text>
 <circle cx="446" cy="65" r="6" fill="#e34c26" />
-<text x="460" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">HTML</tspan>  3.07%</text>
+<text x="460" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">HTML</tspan>  2.65%</text>
 <circle cx="656" cy="65" r="6" fill="#4F5D95" />
-<text x="670" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PHP</tspan>  2.30%</text>
+<text x="670" y="70" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PHP</tspan>  1.99%</text>
 <circle cx="26" cy="93" r="6" fill="#00ADD8" />
-<text x="40" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Go</tspan>  2.29%</text>
+<text x="40" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Go</tspan>  1.98%</text>
 <circle cx="236" cy="93" r="6" fill="#663399" />
-<text x="250" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">CSS</tspan>  1.29%</text>
-<circle cx="446" cy="93" r="6" fill="#dd1100" />
-<text x="460" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Mathematica</tspan>  0.40%</text>
-<circle cx="656" cy="93" r="6" fill="#012456" />
-<text x="670" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PowerShell</tspan>  0.28%</text>
-<circle cx="26" cy="121" r="6" fill="#178600" />
-<text x="40" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C#</tspan>  0.24%</text>
-<circle cx="236" cy="121" r="6" fill="#3572A5" />
-<text x="250" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Python</tspan>  0.21%</text>
+<text x="250" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">CSS</tspan>  1.11%</text>
+<circle cx="446" cy="93" r="6" fill="#3572A5" />
+<text x="460" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Python</tspan>  0.74%</text>
+<circle cx="656" cy="93" r="6" fill="#dd1100" />
+<text x="670" y="98" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Mathematica</tspan>  0.34%</text>
+<circle cx="26" cy="121" r="6" fill="#012456" />
+<text x="40" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">PowerShell</tspan>  0.24%</text>
+<circle cx="236" cy="121" r="6" fill="#178600" />
+<text x="250" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">C#</tspan>  0.20%</text>
 <circle cx="446" cy="121" r="6" fill="#f1e05a" />
-<text x="460" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">JavaScript</tspan>  0.21%</text>
+<text x="460" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">JavaScript</tspan>  0.18%</text>
 <circle cx="656" cy="121" r="6" fill="#dea584" />
-<text x="670" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Rust</tspan>  0.20%</text>
+<text x="670" y="126" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Rust</tspan>  0.17%</text>
 <circle cx="26" cy="149" r="6" fill="#b07219" />
-<text x="40" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Java</tspan>  0.18%</text>
+<text x="40" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Java</tspan>  0.16%</text>
 <circle cx="236" cy="149" r="6" fill="#89e051" />
-<text x="250" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Shell</tspan>  0.09%</text>
+<text x="250" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Shell</tspan>  0.11%</text>
 <circle cx="446" cy="149" r="6" fill="#878787" />
 <text x="460" y="154" font-size="13" font-family="system-ui, -apple-system, sans-serif"><tspan font-weight="600">Hack</tspan>  0.03%</text>
 <circle cx="656" cy="149" r="6" fill="#6E4C13" />
